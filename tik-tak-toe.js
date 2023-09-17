@@ -30,6 +30,11 @@ function Mark(id){
     }
 }
 
-function check_win(){
-
+function check_win(sign){
+    var i ;
+    for( i=0;i<3;i++){
+        if(
+    }
 }
+
+
